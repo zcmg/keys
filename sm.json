@@ -1,9 +1,9 @@
 {
     "script1":
     {
-      "key": "",
-      "ip": "",
-      "msg" "0"
+        "key": "test99",
+        "ip": "",
+        "msg" "0"
     },
     "script2":
     {
@@ -17,4 +17,15 @@
       "ip": "",
       "msg" "0"
     }
+}
+
+
+{
+
+	"info": {
+		"points": 120,
+		"isLeader": true,
+		"past_scores": [50, 42, 95],
+		"best_friend": null
+	}
 }
