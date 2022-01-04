@@ -13,19 +13,35 @@
     },
     "script3":
     {
-      "resource": "check",
+      "resource": "check1",
       "key": "06kPpWn08dFIC8WAGDpwy0oMuF6NkGqX",
       "ip": "",
       "msg": "1"        
     },
     "script4":
     {
+      "resource": "",
       "key": "",
       "ip": "",
       "msg": "0"
     },
     "script5":
     {
+      "resource": "",
+      "key": "",
+      "ip": "",
+      "msg": "0"
+    },
+     "script6":
+    {
+      "resource": "",
+      "key": "",
+      "ip": "",
+      "msg": "0"
+    },
+     "script7":
+    {
+      "resource": "",
       "key": "",
       "ip": "",
       "msg": "0"
