@@ -21,14 +21,14 @@
     {
       "resource": "zcmg_stafftag",
       "key": "1wlNF75aHYidHojGsm0S6oUN3XptifVa",
-      "ip": "134.255.216.220",
+      "ip": "",
       "msg": "0"
     },
     "script5":
     {
       "resource": "",
       "key": "",
-      "ip": "",
+      "ip": "134.255.216.220",
       "msg": "0"
     },
      "script6":
