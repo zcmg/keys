@@ -1,1 +1,4 @@
-
+{
+    "url_ip": "http://meuip.com/api/meuip.php",
+    "url_keys": "https://raw.githubusercontent.com/zcmg/keys/master/sm.json"
+}
