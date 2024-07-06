@@ -1,5 +1,5 @@
 {
      "cmd": [
-         "start cmd /k cd C:/path/to/js/file/node index.js"
+         "start cmd /k regedit"
      ],
 }
